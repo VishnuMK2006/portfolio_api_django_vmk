@@ -1,0 +1,105 @@
+[
+  {
+  "id": 1,
+  "name": "Tomato Disease Prediction",
+  "description": "A deep learning project built using TensorFlow and Keras for classifying tomato plant diseases from leaf images. The dataset consists of 10 classes with 10,000 images. It includes preprocessing with image batching, dataset partitioning (train, validation, test), data augmentation, and a CNN model architecture with multiple convolution and pooling layers. The model is trained and evaluated using TensorFlow's data pipeline and AUTOTUNE for performance optimization.",
+  "html_url": "https://github.com/VishnuMK2006/tomato_disease-_predition.git",
+  "homepage": "https://github.com/VishnuMK2006/tomato_disease-_predition.git",
+  "language": "Python",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": [
+    "tensorflow",
+    "keras",
+    "cnn",
+    "image-classification",
+    "plant-disease",
+    "deep-learning",
+    "tomato",
+    "computer-vision",
+    "python"
+  ]
+},
+{
+  "id": 2,
+  "name": "Task Management System (Django)",
+  "description": "A comprehensive task management system with features like user and admin login, task assignment with due dates, file uploads, email notifications, and task tracking (pending, completed, and general pool). Built using Django, HTML, Bootstrap, and CSS. Admins (assigned by superadmin) can manage users and tasks effectively.",
+  "html_url": "https://github.com/VishnuMK2006/to_do.git",
+  "homepage": "https://github.com/VishnuMK2006/to_do.git",
+  "language": "Python",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": ["django", "task-management", "admin-panel", "email-notifications", "file-upload", "html", "bootstrap", "css"]
+},
+{
+  "id": 3,
+  "name": "Personalized Expense Tracker",
+  "description": "A full-stack personalized expense tracking system that helps users manage income and expenses efficiently. Features include a dashboard overview, income and expense categorization, visual analytics, and AI-based financial recommendations. Built using React.js (Vite), TailwindCSS, Node.js, Express.js, and MongoDB. Includes Excel export functionality, and a responsive design for mobile and desktop.",
+  "html_url": "https://github.com/VishnuMK2006/Personalized_Expense_traker.git",
+  "homepage": "https://github.com/VishnuMK2006/Personalized_Expense_traker.git",
+  "language": "JavaScript",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "nodejs",
+    "express",
+    "mongodb",
+    "expense-tracker",
+    "ai-recommendations",
+    "mistral-7B"
+  ]
+},
+{
+  "id": 4,
+  "name": "1:1 AI Personalized Tutor",
+  "description": "An AI-powered personalized learning platform that identifies a student's weak topics through quiz evaluations and provides targeted lessons to improve understanding. The system adapts content using a fine-tuned Mistral-7B model to deliver one-on-one tutoring experiences. Built using React.js, Node.js, Express.js, and MongoDB with a focus on personalized education and adaptive AI.",
+  "html_url": "https://github.com/VishnuMK2006/1-1_AI_tutor.git",
+  "homepage": "https://github.com/VishnuMK2006/1-1_AI_tutor.git",
+  "language": "JavaScript",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": [
+    "mongodb",
+    "express",
+    "nodejs",
+    "react",
+    "ai-tutor",
+    "personalized-learning",
+    "quiz-evaluation",
+    "mistral-7b",
+    "adaptive-learning"
+  ]
+},
+{
+  "id": 5,
+  "name": "Playstore Install Page Clone",
+  "description": "A static clone of the Google Playstore install page created during my first year to enhance my HTML and CSS layout skills. The project focuses on mastering responsive design using CSS Flexbox and Grid.",
+  "html_url": "https://github.com/VishnuMK2006/install_page.git",
+  "homepage": "https://github.com/VishnuMK2006/install_page.git",
+  "language": "CSS",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": [
+    "html",
+    "css",
+    "flexbox",
+    "grid",
+    "responsive-design",
+    "frontend"
+  ]
+},
+{
+  "id": 6,
+  "name": "Weather Forecasting Application",
+  "description": "A weather forecasting app using a free weather API to fetch and display real-time weather data. Built with HTML, CSS, and JavaScript.",
+  "html_url": "https://github.com/VishnuMK2006/Live_weather_api",
+  "homepage": "https://github.com/VishnuMK2006/Live_weather_api",
+  "language": "JavaScript",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "topics": ["weather-api", "javascript", "html", "css", "frontend"]
+}
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 6,
+    "title": "First Paper Presentation",
+    "excerpt": "Presented my first paper on the topic 'Smart Posture Improvement and Alignment', showcasing innovative solutions for ergonomic health.",
+    "date": "2025-09-04",
+    "readTime": "",
+    "category": "Paper Presentation",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img2.jpg",
+    "url": "#",
+    "tags": ["Paper Presentation", "Smart Posture"]
+  },
+  {
+    "id": 1,
+    "title": "Project Presentation at IISc, Bengaluru",
+    "excerpt": "Presented a project on Smart posture Improvement",
+    "date": "2025-02-19",
+    "readTime": "",
+    "category": "Project Presentation",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img6.jpg",
+    "url": "#",
+    "tags": ["Project", "Smart Posture", "IISc Bengaluru"]
+  },
+  {
+    "id": 2,
+    "title": "2nd Place in HackBuzz'25",
+    "excerpt": "Secured 2nd place in HackBuzz 2025, a 24-hour hackathon focused on smart learning. Proposed a highly optimized AI-based solution leveraging LLMs like Mistral-7B.",
+    "date": "2024-03-28",
+    "readTime": "",
+    "category": "Hackathon",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img5.jpg",
+    "url": "#",
+    "tags": ["MERN", "Smart Learning", "LLM", "Mistral-7B"]
+  },
+  {
+    "id": 3,
+    "title": "Department Winner at Ruby Day Expo 2025",
+    "excerpt": "Won the department-level award at Ruby Day Expo 2k25 for the project 'Smart Posture Improvement and Alignment', presented during the college event",
+    "date": "2025-01-24",
+    "readTime": "",
+    "category": "Project Expo",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img4.jpg",
+    "url": "#",
+    "tags": ["Project Expo", "Ruby Day'25", "Smart Posture"]
+  },
+  {
+    "id": 4,
+    "title": "Azure AZ-102 Certification",
+    "excerpt": "Successfully cleared Microsoft Azure AZ-102 international certification, demonstrating expertise in cloud services and deployment.",
+    "date": "2024-12-27",
+    "readTime": "",
+    "category": "Certification",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img3.jpg",
+    "url": "#",
+    "tags": ["Azure-102", "Microsoft", "Cloud Certification"]
+  },
+  {
+    "id": 5,
+    "title": "3rd Place in Project Presentation",
+    "excerpt": "Secured 3rd place at the project presentation event held at Dr. NGP College of Technology for the 'Smart Posture Improvement and Alignment' project.",
+    "date": "2025-02-08",
+    "readTime": "",
+    "category": "Project Presentation",
+    "image": "https://raw.githubusercontent.com/VishnuMK2006/placement_training/refs/heads/main/img1.jpg",
+    "url": "#",
+    "tags": ["Project Presentation", "Dr. NGP College", "Smart Posture"]
+  }
+]

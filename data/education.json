@@ -1,0 +1,28 @@
+[{
+  "id": 1,
+  "degree": "Bachelor of Engineering in Computer Science and Engineering",
+  "institution": "Kongu Engineering College",
+  "location": "Perundurai, Erode, Tamil Nadu, 638-060",
+  "period": "2023 - Present",
+  "description": "Pursuing undergraduate studies in Computer Science and Engineering with a strong focus on software development, systems design, and emerging technologies.",
+  "gpa": "8.98 / 10.0",
+  "icon": "🎓",
+  "color": "from-purple-400 to-purple-600"
+},
+{
+  "id": 2,
+  "degree": "Higher Secondary Certificate (HSC) – Computer Science Stream",
+  "institution": "Government Model Higher Secondary School",
+  "location": "Pattimaniyakaran Palayam, Nambiyur, Tamil Nadu, 638458",
+  "period": "2022 - 2023",
+  "description": "Completed Higher Secondary education with a focus on Computer Science, developing a strong foundation in programming and analytical thinking.",
+  "percent": "90%",
+  "achievements": [
+    "Secured third highest score in the school",
+    "Achieved 98% in Computer Science",
+    "Cleared the National Means-cum-Merit Scholarship (NMMS) in Grade 8th, eligible for ₹48,000 (₹12,000/year)"
+  ],
+  "icon": "🏫",
+  "color": "from-purple-400 to-purple-600"
+}
+]
